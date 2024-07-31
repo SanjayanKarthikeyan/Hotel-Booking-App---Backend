@@ -1,0 +1,21 @@
+{
+  "name": "hotel-booking-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
